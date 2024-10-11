@@ -12,8 +12,8 @@ instructions:
     
  6) run jupyter notebook in anaconda. run this command ---- > jupyter notebook
  7) now your directory will be openned in your browser.
- 8) open the digit_detection.ipynb
- 9) follow the instruction in the digit_detection.ipynb once it is opened.
+ 8) open the test.ipynb
+ 9) follow the instruction in the test.ipynb once it is opened.
  
 
 
