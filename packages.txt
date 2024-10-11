@@ -1,0 +1,20 @@
+instructions:
+ 1) Run the anaconda terminal
+ 2) go to the directory which project is located ( digit_detection)
+ 3) make a virtual environment.  run this command---> ( conda create --name myenv)
+ 4) activate the environment. run this command -----> (activate myenv)
+ 5) install the packages: for this run the following commands
+
+    pip install mediapipe
+    conda install -c conda-forge opencv
+    conda install scikit-learn
+
+    
+ 6) run jupyter notebook in anaconda. run this command ---- > jupyter notebook
+ 7) now your directory will be openned in your browser.
+ 8) open the digit_detection.ipynb
+ 9) follow the instruction in the digit_detection.ipynb once it is opened.
+ 
+
+
+ 
